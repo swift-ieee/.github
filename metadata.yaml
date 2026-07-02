@@ -6,7 +6,7 @@
 #
 # Schema mirrors per-repo .github/metadata.yaml. Read by social-preview.sh.
 
-description: "Swift implementations of ieee specifications."
+description: "Swift implementations of IEEE specifications."
 homepage: "https://swift-institute.org"
 
 socialPreview:
