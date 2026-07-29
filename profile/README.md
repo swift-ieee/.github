@@ -8,13 +8,15 @@ One package per specification, named `swift-ieee-<number>`. Each package impleme
 
 > Swift IEEE is an independent open-source project. It is not affiliated with, endorsed by, or sponsored by IEEE (Institute of Electrical and Electronics Engineers).
 
-## Coverage
+## Where to find implementations
 
-| Package | Specification |
-|---|---|
-| [swift-ieee-754](https://github.com/swift-ieee/swift-ieee-754) | IEEE Standard for Floating-Point Arithmetic |
+The [repositories tab](https://github.com/orgs/swift-ieee/repositories) is the complete,
+current list of implementations. Packages follow the `swift-ieee-<number>` naming
+convention; [filter by that prefix](https://github.com/orgs/swift-ieee/repositories?q=swift-ieee-)
+to browse the specifications represented here. Each repository description carries its
+specification's full title.
 
-Every repository description carries the specification's full title; the [repositories tab](https://github.com/orgs/swift-ieee/repositories) lists them all.
+For a starting point, see the [IEEE 754 implementation](https://github.com/swift-ieee/swift-ieee-754).
 
 ## Status
 
